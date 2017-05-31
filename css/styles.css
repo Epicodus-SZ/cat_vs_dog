@@ -13,13 +13,11 @@ li:hover {
 }
 
 #catpic {
-  display: none;
   margin-top: 20px;
   width: 150px;
 }
 
 #dogpic {
-  display: none;
   margin-top: 20px;
   width: 280px;
 }
