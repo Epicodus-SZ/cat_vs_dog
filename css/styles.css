@@ -1,6 +1,11 @@
 li {
 font-size: 24px;
 color: #d8be55;
+text-decoration: underline;
+cursor: pointer;
+}
+li:hover {
+  color: rgb(217, 83, 79);
 }
 
 .btn {
