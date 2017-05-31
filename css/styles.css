@@ -1,0 +1,20 @@
+li {
+font-size: 24px;
+color: #d8be55;
+}
+
+.btn {
+  border-radius: 4px;
+}
+
+#catpic {
+  display: none;
+  margin-top: 20px;
+  width: 150px;
+}
+
+#dogpic {
+  display: none;
+  margin-top: 20px;
+  width: 280px;
+}
